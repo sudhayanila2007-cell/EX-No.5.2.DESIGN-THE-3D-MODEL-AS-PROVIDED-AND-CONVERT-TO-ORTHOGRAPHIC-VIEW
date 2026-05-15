@@ -1,5 +1,5 @@
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:14.5.2026
+## DATE:15.5.2026
 
 ## AIM: 
 To create orthographic view of given 3D model
